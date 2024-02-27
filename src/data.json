@@ -1,0 +1,50 @@
+[
+    {
+        "image": "img/projet_1.png",
+        "category": "Jeux",
+        "title": "Projet 1",
+        "year": "2023",
+        "type": "Pro",
+        "plateforme": "Unity",
+        "teamSize": "10",
+        "duration": "100 ans",
+        "tools": [
+            "outil1",
+            "outil2",
+            "outil3"
+        ],
+        "projectLink": "url",
+        "awarded": null,
+        "pitch": "auifhaoifaf",
+        "mission": "ufgehioafa",
+        "designProcess": "auiehfaiof",
+        "docs": [
+            "docs/projet_1/doc1",
+            "docs/projet_1/doc2"
+        ]
+    },
+    {
+        "image": "img/projet_2.png",
+        "category": "3D",
+        "title": "Projet 1",
+        "year": "2023",
+        "type": "Pro",
+        "plateforme": "Unity",
+        "teamSize": "10",
+        "duration": "100 ans",
+        "tools": [
+            "outil1",
+            "outil2",
+            "outil3"
+        ],
+        "projectLink": "url",
+        "awarded": null,
+        "pitch": "auifhaoifaf",
+        "mission": "ufgehioafa",
+        "designProcess": "auiehfaiof",
+        "docs": [
+            "docs/projet_1/doc1",
+            "docs/projet_1/doc2"
+        ]
+    }
+]

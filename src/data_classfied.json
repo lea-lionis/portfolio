@@ -1,0 +1,100 @@
+{
+    "art": [
+        {
+            "image": "img/projet_1.png",
+            "title": "Projet 20",
+            "year": "2023",
+            "type": "Pro",
+            "plateforme": "Unity",
+            "teamSize": "10",
+            "duration": "100 ans",
+            "tools": [
+                "outil1",
+                "outil2",
+                "outil3"
+            ],
+            "projectLink": "url",
+            "awarded": null,
+            "pitch": "auifhaoifaf",
+            "mission": "ufgehioafa",
+            "designProcess": "auiehfaiof",
+            "docs": [
+                "docs/projet_1/doc1",
+                "docs/projet_1/doc2"
+            ]
+        },
+        {
+            "image": "img/projet_1.png",
+            "title": "Projet 1",
+            "year": "2023",
+            "type": "Pro",
+            "plateforme": "Unity",
+            "teamSize": "10",
+            "duration": "100 ans",
+            "tools": [
+                "outil1",
+                "outil2",
+                "outil3"
+            ],
+            "projectLink": "url",
+            "awarded": null,
+            "pitch": "auifhaoifaf",
+            "mission": "ufgehioafa",
+            "designProcess": "auiehfaiof",
+            "docs": [
+                "docs/projet_1/doc1",
+                "docs/projet_1/doc2"
+            ]
+        }
+    ],
+    "jeux": [
+        {
+            "image": "img/projet_1.png",
+            "title": "Projet 2",
+            "year": "2023",
+            "type": "Pro",
+            "plateforme": "Unity",
+            "teamSize": "10",
+            "duration": "100 ans",
+            "tools": [
+                "outil1",
+                "outil2",
+                "outil3"
+            ],
+            "projectLink": "url",
+            "awarded": null,
+            "pitch": "auifhaoifafauifhaoifafauifhaoifafauifhao, ifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifh, , aoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoi, , fafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafa, , uifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoif, afauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafau, ifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifh, aoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifaafauifhaoifafaui, fhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauif, haoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifaf, auifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifaf, auifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifa,  fauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifh, aoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhao, ifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifa, fauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifafaui, fhaoifafauifhaoifafauifhaoifafauifhaoifafauifhaoifaff",
+            "mission": "ufgehioafa",
+            "designProcess": "auiehfaiof",
+            "docs": [
+                "docs/projet_1/doc1",
+                "docs/projet_1/doc2"
+            ]
+        }
+    ],
+    "levelDesign": [
+        {
+            "image": "img/projet_1.png",
+            "title": "Projet 3",
+            "year": "2023",
+            "type": "Pro",
+            "plateforme": "Unity",
+            "teamSize": "10",
+            "duration": "100 ans",
+            "tools": [
+                "outil1",
+                "outil2",
+                "outil3"
+            ],
+            "projectLink": "url",
+            "awarded": null,
+            "pitch": "auifhaoifaf",
+            "mission": "ufgehioafa",
+            "designProcess": "auiehfaiof",
+            "docs": [
+                "docs/projet_1/doc1",
+                "docs/projet_1/doc2"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+export default function Footer({ className, children, lstProject, setSelectedProject }) {
+  return (
+    <footer className={(className ? className : '') + ' flex px-3'}>
+      <div className='flex flex-col my-auto text-center space-y-4'>
+        {children}
+      </div>
+      <div className="pl-12 flex space-x-10">
+        {/*map = fonction parcourant un tableau et retournant le visuel que l'on veut de chaque item */}
+        {lstProject && lstProject.map((project) => (
+          <div key={project.title} className='my-auto flex flex-col'>
+            <button onClick={() => setSelectedProject(project)}>
+              <img className='object-contain h-12' src={project.image} alt={project.title} />
+            </button>
+            {project.title}
+          </div>
+        ))}
+      </div>
+    </footer>
+  )
+}  
