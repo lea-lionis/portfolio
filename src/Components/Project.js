@@ -10,24 +10,31 @@ export default function Project({ className, data }) {
             <div className="text-3xl">{data.title}</div>
             <div className="text-xl">{data.year}</div>
           </div>
-          <div className="font-bold pt-4">
-            <div>{data.type} </div>
-            <div>{data.plateforme} </div>
-            <div>{data.teamSize} </div>
-            <div>{data.duration} </div>
-            <div>
+          <div className="pt-4 text-blue-900/100">
+            <div><b>Type de projet:</b> {data.type} </div>
+            <div><b>Plateforme:</b> {data.plateforme} </div>
+            <div><b>Taille d'équipe:</b> {data.teamSize} </div>
+            <div><b>Durée:</b> {data.duration} </div>
+            <div> <b>Outils utilisés:</b>
               {data.tools.map((tool, index) => (
-                <span>{index < (data.tools.length - 1) ? tool + ', ' : tool}</span>
+                <span> {index < (data.tools.length - 1) ? tool + ', ' : tool}</span>
               ))}
             </div>
-            <div> {data.projectLink} </div>
-            <div> {data.awarded && data.awarded} </div>
+            <div> <b>Lien du projet:</b> <a href={data.projectLink}>{data.projectLink && data.projectLink} </a></div>
+            <div> <b>Nominé:</b> {data.awarded && data.awarded} </div>
           </div>
         </div>
-        <div className='flex-1 overflow-y-scroll break-words h-52 mt-12 pt-4'>
+        <div className='flex-1 overflow-y-scroll break-words h-52 mt-12 pt-4 text-justify'>
+          <b> Pitch </b>
           <div> {data.pitch} </div>
+          <br/>
+          <b> Mes missions </b>
           <div> {data.mission} </div>
+          <br/>
+          <b> Design process </b>
           <div> {data.designProcess} </div>
+          <br/>
+          <b> Documentation </b>
           <div> 
             {data.docs.map((doc, index) => (
               <span>{index < (data.docs.length - 1) ? doc + ', ' : doc}</span>

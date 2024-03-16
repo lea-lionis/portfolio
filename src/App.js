@@ -31,6 +31,7 @@ function App() {
             <img className="h-10 pr-3 object-contain" src="./img/projet_1.png" alt='Logo Léa Lionis' />
             <h1 className='text-4xl text-center text-white'>Portfolio</h1>
           </div>
+          <hr class="border-gray-800 dark:border-white" />
           <div className='flex flex-col px-3 text-xl space-y-7'>
             <div className='flex flex-row space-x-8 justify-between'>
               <img className="h-9 object-contain" src="./img/projet_1.png" alt='Logo Léa Lionis' />
@@ -51,7 +52,7 @@ function App() {
         </div>
       </div>
       {showFooter && (
-        <Footer className="bg-sky-200/50 row-span-3 pl-12 divide-x divide-dashed divide-gray-400 divide-x-4" lstProject={projects[projectCateg]} setSelectedProject={setSelectedProject}>
+        <Footer className="bg-sky-200/50 row-span-3 pl-12 divide-x divide-dashed divide-gray-400 divide-x-2 p-7" lstProject={projects[projectCateg]} setSelectedProject={setSelectedProject}>
           <ButtonFooter onClick={() => setProjectCateg("jeux")}>Jeux</ButtonFooter>
           <ButtonFooter onClick={() => setProjectCateg("levelDesign")}>Level Design</ButtonFooter>
           <ButtonFooter onClick={() => setProjectCateg("art")}>3D Art</ButtonFooter>
