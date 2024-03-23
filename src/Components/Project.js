@@ -24,12 +24,15 @@ export default function Project({ className, data }) {
             <div> <b>Nominé:</b> {data.awarded && data.awarded} </div>
           </div>
         </div>
-        <div className='flex-1 overflow-y-scroll break-words h-52 mt-12 pt-4 text-justify'>
+        <div className='flex-1 overflow-y-auto break-words h-52 mt-12 pt-4 text-justify'>
           <b> Pitch </b>
           <div> {data.pitch} </div>
           <br/>
-          <b> Mes missions </b>
-          <div> {data.mission} </div>
+          <ul className="list-disc list-inside whitespace-pre-line"> <b>Mes missions</b>
+          {data.mission.map((mission, index) => 
+            <li> {index < (data.mission.length -1) ? mission + ' ' : mission}</li>
+          )}
+          </ul>
           <br/>
           <b> Design process </b>
           <div> {data.designProcess} </div>
