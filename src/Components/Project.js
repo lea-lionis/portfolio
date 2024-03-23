@@ -4,7 +4,7 @@ export default function Project({ className, data }) {
       <div className='col-span-4 m-auto'> {/* image */}
         <img className="object-contain" src={data.image} alt={data.title} />
       </div>
-      <div className='col-span-3 grid grid-rows-2 h-full max-h-full pr-16 divide-y divide-dashed divide-gray-400 divide-y-2 selection:bg-yellow-200'> {/* content */}
+      <div className='col-span-3 grid grid-rows-2 h-full max-h-full pr-16 divide-y divide-dashed divide-gray-400 divide-y-2 selection:bg-yellow-200 bg-gradient-to-t from-indigo-100'> {/* content */}
         <div className="pt-16">
           <div className="flex flex-row justify-between p-3 bg-white">
             <div className="text-3xl">{data.title}</div>
@@ -20,7 +20,7 @@ export default function Project({ className, data }) {
                 <span> {index < (data.tools.length - 1) ? tool + ', ' : tool}</span>
               ))}
             </div>
-            <div> <b>Lien du projet:</b> <a href={data.projectLink}>{data.projectLink && data.projectLink} </a></div>
+            <div> <b>Lien du projet:</b> <a className="underline" href={data.projectLink}>{data.projectLink && data.projectLink} </a></div>
             <div> <b>Nominé:</b> {data.awarded && data.awarded} </div>
           </div>
         </div>
