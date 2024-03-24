@@ -1,7 +1,7 @@
 {
     "jeux": [
         {
-            "image": "img/MakeItLaugh.png",
+            "image": "/assets/MakeItLaugh.png",
             "title": "Make it Laugh",
             "year": "2024",
             "type": "Game Jam",
@@ -17,43 +17,18 @@
             ],
             "projectLink": "https://aurore-be.itch.io/make-it-laugh",
             "awarded": null,
-            "pitch": "Make it Laugh est un survival horror en 3D dans lequel le joueur incarne un enfant devant récupérer le plus de blagues possible pour survivre au monstre de ses cauchemars.",
+            "pitch": "Make it Laugh est un survival horror en 3D à la 1ère personne dans lequel le joueur incarne un enfant, dans un grand manoir, devant récupérer le plus de blagues possible pour survivre au monstre de ses cauchemars. Le gameplay se passe en deux phases, celle ou l’enfant est dans un rêve où il récupère les carambars, les bombes de graffitis et les clés pour déverrouiller des pièces. La deuxième phase passe en mode cauchemar où le monstre poursuit le personnage et pourra être ralentis en lui racontant des blagues.",
             "mission": [
-                "Artiste 3D (définition de la charte graphique, palette de couleurs, style de rendu, époque, modélisation, texturing low-poly et importation Unity, travail collaboratif)"
+                "Artiste 3D: définition de la charte graphique, palette de couleurs, style de rendu, époque, modélisation, texturing low-poly et importation Unity, travail collaboratif entre graphistes avec le versionning sur Git"
             ],
-            "designProcess": "Le jeu Make it Laugh a été réalisé durant la Global Game Jam 2024 dont le thème était “Make Me Laugh”. Le thème nous a inspiré à s’orienter plutôt vers un contraste différent (l’horreur) et de baser l’humour sur celui-ci. Le challenge principal a été de réaliser un travail collaboratif entre plusieurs artistes 3D et d’envoyer le travail sur Git en équipe de 10 sans créer de conflits.",
+            "designProcess": "Le jeu Make it Laugh a été réalisé durant la Global Game Jam 2024 dont le thème était “Make Me Laugh”. Ce thème nous a inspiré à s’orienter plutôt vers un contraste différent, l’horreur, tout en alliant le principe des blagues. Avec le thème de l’enfance nous nous sommes orienter vers les blagues des bonbons carambar et des dessins sur les murs (ici les graffitis absurdes). Etant plusieurs graphistes avec une grande équipe (10 personnes), nous avons mis en place un système d’échange et d’anticipation concernant le partage du travail sur Git en le segmentant de manière à réduire les conflit.",
             "docs": [
                 "docs/projet_1/doc1",
                 "docs/projet_1/doc2"
             ]
         },
         {
-            "image": "img/Serac.png",
-            "title": "Sérac",
-            "year": "2023",
-            "type": "Projet étudiant",
-            "plateforme": "PC",
-            "teamSize": "10",
-            "duration": "4 jours",
-            "tools": [
-                "Excel",
-                "Trello",
-                "Google Drive"
-            ],
-            "projectLink": "https://satharn.itch.io/serac",
-            "awarded": null,
-            "pitch": "Sérac est un shoot’em up en 2D coopération dans lequel les deux joueurs sont ennemis mais coopèrent pour un but commun. Ils doivent gravir le Cryo Summit, une grande montagne, et obtenir individuellement le plus de score possible avant la fin du temps imparti pour savoir qui récupérera le trésor. Pour cela, ils pourront récupérer des collectables (engrenages) tombant de la montagne où provenant des ennemis qu’ils tueront. Ils devront faire attention à ne pas se faire tirer dessus par les ennemis sous peine de considérablement perdre du score.",
-            "mission": [
-                "Producing (brainstorm d’équipe, gestion des besoins individuels (entretiens individuels), documentation et tracking de pipeline (AssetList commune théorique/réel, planning théorique/réel, suivi des tâches), stand-up meetings, post-mortem, connaissance plus concrète du travail d’ergonome et de l’impact de notre collaboration"
-            ],
-            "designProcess":"Le projet Sérac s’est déroulé lors d’un workshop “NANO-Projet” au sein du CNAM-ENJMIN dans lequel nous avons développé une expérience de jeu contrainte par le style shoot’em up. Lors du brainstorm, nous avons rapidement laisser place à l’expérimentation du style “mécanique et robots” dans la direction artistique avec la dualité organique du décors enneigé et froid. Le challenge principal était tourné vers la médiation. Au sein du projet subsistait un désaccord entre les membres de la spécialité programmation qui se ressentait également dans toute l’équipe et l’avancée du projet. C’est par l’observation et des entretiens individuels avec les personnes concernées et affectées par ce conflit, que le projet a pu recevoir un second élan de motivation et de compréhension mutuelle.",
-            "docs": [
-                "docs/projet_1/doc1",
-                "docs/projet_1/doc2"
-            ]
-        },
-        {
-            "image": "img/SLB.png",
+            "image": "/assets/SLB.png",
             "title": "Space, Love & Blouge",
             "year": "2023",
             "type": "Projet étudiant",
@@ -67,21 +42,21 @@
             ],
             "projectLink": "https://nonogg.itch.io/space-love-and-blouge",
             "awarded": "Festivals Game In Noisy et Safra Numérique",
-            "pitch": "Space, Love & Blouge propose une expérience interactive d’un shoot’em up en 2D et en coopération sur une installation physique. Deux joueurs coopèrent pour protéger leur planète contre des armées de leurs deux espèces respectives qui sont en désaccord avec leur idylle. Un cockpit en carton possède pour chaque joueur un joystick de déplacement, un bouton de tir ainsi qu’un aperçu de la barre de vie. Le challenge réside dans la vision, car chacun porte un casque (de couleur rouge ou bleu) qui ne permet de voir que les ennemis de son partenaire. La communication s’avère cruciale pour se battre jusqu’au bout.",
+            "pitch": "Space, Love & Blouge propose une expérience interactive d’un shoot’em up en 2D et en coopération sur une installation physique effectué à l’ENJMIN. Deux joueurs coopèrent pour protéger leur planète contre des armées de leurs deux espèces respectives qui sont en désaccord avec leur idylle. Un cockpit en carton possède pour chaque joueur un joystick de déplacement, un bouton de tir ainsi qu’un aperçu commun de la barre de vie. Chacun porte un casque (de couleur rouge ou bleu) qui ne permet de voir que les ennemis de son partenaire. La communication s’avère cruciale pour se battre jusqu’au bout.",
             "mission": [
-                "Producing (brainstorm d’équipe, documentation et tracking de production (AssetsList par spécialité, suivi des tâches, besoins matériels), stand-up meetings, communication régulière avec l’équipe et liaison avec les responsables pédagogique).",
-                "Fournitures (aide recherche, découpage et mise en place du matériel nécessaire comme le carton ou les rideaux pour l’ambiance de la salle)"
+                "Producing: brainstorm d’équipe, documentation et tracking de pipeline (AssetsList, planning théorique, besoins matériels), stand-up meetings, communication régulière avec l’équipe et liaison avec l’équipe pédagogique.",
+                "Fournitures: aide recherches design du cockpit, découpage et mise en place du matériel nécessaire comme le carton ou les rideaux pour l’ambiance de la salle"
             ],
-            "designProcess":"Le projet Space, Love & Blouge était un workshop proposé sur 4 jours au sein du CNAM-ENJMIN dans lequel nous expérimentions l’interactivité au travers d’un output différent d’un écran. Nous avions 2 contraintes qui étaient “planète étrangère” et “feu/glace” qui nous ont inspirer à partir sur un shoot’em up spatial en nous servant des couleurs associées aux éléments feu/glace et de jouer sur leur complémentarité pour le thème de l’amour. Le challenge principal a été de comprendre comment et si le système de casques et de couleurs fonctionnerait. Le calque de couleur bleu devait cacher les vaisseaux rouges et inversement pour l’autre casque, tout en veillant à ce que les vaisseaux visibles le soient vraiment. Nous avons dans un premier temps mis en place des temps d’échanges afin de comprendre cette problématique ensemble et d’apporter des solutions de manière pro-active. Ensuite, un travail de recherche sur le fonctionnement de ses couleurs, nous a amené à travailler les graphismes, de sorte à ce que les vaisseaux visibles apparaissent en magenta en alliance avec le calque du masque, et que le bleu et rouge soient assez assombris pour devenir presque invisible.",
+            "designProcess":"Le projet Space, Love & Blouge était un workshop proposé sur 4 jours au sein du CNAM-ENJMIN dans lequel nous expérimentions l’interactivité au travers d’un output différent d’un écran. Nous avions 2 contraintes: “planète étrangère” et “feu/glace”. Elles nous ont inspirées à partir sur un shoot’em up spatial en nous servant des couleurs associées aux éléments feu/glace et de jouer sur leur complémentarité pour le thème de l’amour. Nous avons ensemble pris un temps d’échange afin de comprendre la problématique des couleurs perçus à travers les casques. Le calque de couleur bleu devait cacher les vaisseaux rouges et inversement pour l’autre casque, tout en veillant à ce que les vaisseaux visibles le soient vraiment. Un travail de recherche sur le fonctionnement de ses couleurs nous a amené à travailler les graphismes de sorte à ce que les vaisseaux visibles apparaissent en magenta en alliance avec le calque du masque, et que le bleu et rouge soient assez assombris pour devenir presque invisible.",
             "docs": [
                 "docs/projet_1/doc1",
                 "docs/projet_1/doc2"
             ]
         },
         {
-            "image": "img/Weezy.png",
+            "image": "/assets/Weezy.png",
             "title": "Weezy l'abeille",
-            "year": "2022 (+2023)",
+            "year": "2022 (+ 2023)",
             "type": "Freelance",
             "plateforme": "Mobile (Android et iOS)",
             "teamSize": "2",
@@ -94,24 +69,24 @@
             ],
             "projectLink": "https://play.google.com/store/apps/details?id=com.Terredabeilles.Weezy&hl=fr&gl=US&pli=1",
             "awarded": null,
-            "pitch": "Weezy l’abeille est un Edugame en 2D racontant l’histoire de Weezy, une petite abeille ouvrière, qui va découvrir son rôle et ses super-pouvoirs de pollinisatrice au sein de la ruche. Elle emmène le joueur à travers 12 mini-jeux accompagnés d’un contenu éducatif animé, entremêlés d’un fil rouge narratif qui suit le parcours classique d’une abeille ouvrière. Cette expérience offre une aventure colorée dans laquelle les plus jeunes apprennent tout en s’amusant à protéger les pollinisateurs sauvages et à comprendre leur importance dans la biodiversité.",
+            "pitch": "Weezy l’abeille est un Edugame en 2D racontant l’histoire de Weezy, une petite abeille ouvrière, qui va découvrir son rôle et ses super-pouvoirs de pollinisatrice au sein de la ruche. Elle emmène le joueur à travers 12 mini-jeux accompagnés d’un contenu éducatif animé. Ces mini-jeux sont entremêlés d’un fil rouge narratif qui suit le parcours classique d’une abeille ouvrière durant toute sa vie. Cette expérience offre une aventure colorée dans laquelle les plus jeunes apprennent tout en s’amusant à protéger les pollinisateurs sauvages et à comprendre leur importance dans la biodiversité.",
             "mission": [
-                "Producing (accompagnement de l’idée de l’association vers un contenu ludique et qualitatif, documentation et tracking de pipeline (AssetsLists, tâches, planning théorique), suivi et coordination avec le travail de l’illustratrice, communication entre les différents acteurs (meetings réguliers de l’avancée projet, Discord…), étude des concurrents et recherches monétisation",
-                "Programming (diagrammes fonctionnels des différentes parties du jeu et interactions, découverte de Fungus (storytelling interactif), inputs mobiles avec Unity Remote, supervision de scenes tests pour des fonctionnalités spécifiques, optimisation poids du jeu, build APK sur Android et iOS (xCode),…)",
-                "Game Design (Game Concept, USP, recherche expérience voulue, définition des 3C, objectifs et progression, challenges, déroulement de partie, metrics déplacement sur écran tactile)",
-                "Ergonome UX/UI (étude du public cible et de ses intérêts, recherches interfaces et hiérarchie d’informations à l’écran, séances de playtests avec questionnaire, réévaluation accessibilité post-playtest)",
-                "Sound Design (session d’enregistrements voix off, préréglages sur Audacity, intégration et alignement son/image)"
+                "Producing: accompagnement de l’idée de l’association vers un contenu ludique et qualitatif, documentation et tracking de pipeline (AssetsList, planning théorique avec milestones), suivi et coordination avec le travail de l’illustratrice, communication entre les différents acteurs (weekly meetings, Discord…), stratégie marketing (étude des concurrents, recherches monétisation)",
+                "Programmation: diagrammes fonctionnels des différentes parties du jeu et interactions, découverte de Fungus (storytelling interactif), inputs mobiles avec Unity Remote, optimisation poids du jeu, build sur Android et iOS (xCode),…",
+                "Game Design: Game Concept, USP, recherche expérience voulue, définition des 3C, objectifs et progression, challenges, déroulement de partie, metrics déplacement sur écran tactile",
+                "Ergonome UX/UI: étude du public cible et de ses intérêts, hiérarchie d’informations à l’écran, séances de playtests avec questionnaire et réévaluation accessibilité post-playtest",
+                "Sound Design: session d’enregistrements voix off, préréglages sur Audacity, intégration et alignement son/image"
             ],
-            "designProcess": "Cet Edugame, destiné à tout public à partir de 7 ans, a été réalisé dans le cadre d’une mission freelance avec l’association Terre d’Abeilles. Lors de la conception du projet, l’association Terre d’Abeilles avait une structure plutôt détaillée de ce qu’ils souhaitaient obtenir comme expérience de jeu. Nous avons ensemble élaboré un game concept permettant d’affiner leur vision sur une expérience ludique. Etant un jeu principalement pour jeunes enfants, nous avons opté pour une direction artistique simple et colorée pour facilité la compréhension visuelle et sonore. Un mix de mini-jeux connus (labyrinthe, trouve les 7 différences), permet d’être rapidement assimilé par les enfants et de se concentrer davantage sur le challenge qui s’y trouve et le message pédagogique. Le challenge principal résidait autour d’une problématique (que j’appelle la colonne vertébrale du projet) sur le travail d’ingénierie pédagogique qui en découle: comment, au travers des différents éléments du jeu et en adéquation avec la vision de l'association, susciter l'intérêt de l'enfant dans la transmission d'informations (**créer une certaine rétention**) d'un sujet aussi complexe et sensible ? C’est en alliant la maitrise du sujet des insectes pollinisateurs de Terre d’Abeilles, à nos compétences de développement de jeu ainsi que de nombreux playtests orientées vers le public cible, que nous avons pu progresser en observant l’apprentissage et l’amusement.",
+            "designProcess": "Cet Edugame, destiné à tout public à partir de 7 ans, a été réalisé dans le cadre d’une mission freelance avec l’association Terre d’Abeilles où nous avons ensemble élaboré un game concept permettant d’affiner leur vision sur une expérience ludique. Etant un jeu principalement pour jeunes enfants, nous avons opté pour une direction artistique simple et colorée pour facilité la compréhension visuelle et sonore ainsi qu’un mix de mini-jeux connus (labyrinthe, trouve les 7 différences) pour faciliter la compréhension et se concentrer davantage sur le message pédagogique. Nous avions une problématique principale (que j’appelle la colonne vertébrale du projet) durant toute la conception qui était sur l’ingénierie pédagogique: comment, au travers des différents éléments du jeu et en adéquation avec la vision de l'association, susciter l'intérêt de l'enfant dans la transmission d'informations (**créer une certaine rétention**) d'un sujet aussi complexe et sensible. C’est en alliant la maîtrise du sujet des insectes pollinisateurs de Terre d’Abeilles, à nos compétences de développement de jeu ainsi que de nombreux playtests orientés vers le public cible, que nous avons pu progresser en observant l’apprentissage et l’amusement.",
             "docs": [
                 null
             ]
         },
         {
-            "image": "img/MF.png",
+            "image": "/assets/MF.png",
             "title": "M. Fluff",
             "year": "2021",
-            "type": "Projet d'études",
+            "type": "Projet étudiant",
             "plateforme": "PC",
             "teamSize": "Seule",
             "duration": "3 mois",
@@ -123,16 +98,16 @@
             ],
             "projectLink": null,
             "awarded": null,
-            "pitch": "M. Fluff est un jeu d’horreur psychologique en 3D à la 1ère personne où le joueur incarne Hendy, un homme atteint de coulrophobie. Après avoir été mystérieusement conduit vers une fête foraine, complètement abandonnée et délabrée, il devra se confronter à ses plus grandes peurs. Le clown qui siège dans cet endroit est en colère et Hendy devra lui rapporter sa peluche d’enfance dans le manoir hanté avant de pouvoir s’enfuir de ce cauchemar éveillé. Pour la trouver, il devra explorer les lieux en quête de jetons et interagir avec les différentes attractions pour progresser dans le niveau.",
+            "pitch": "M. Fluff est un jeu d’horreur psychologique en 3D à la 1ère personne conçu pendant mon bachelor numérique en année 3. Le joueur incarne Hendy, un homme atteint de coulrophobie qui va devoir se confronter à ses plus grandes peurs en étant mystérieusement conduit vers une fête foraine complètement abandonnée et délabré. Le clown qui siège dans cet endroit est en colère et Hendy devra lui rapporter sa peluche d’enfance dans le manoir hanté avant de pouvoir s’enfuir de ce cauchemar éveillé. Pour la trouver, il devra explorer les lieux en quête de jetons et interagir avec les différentes attractions pour progresser dans le niveau.",
             "mission":[
-                "Producing (auto-suivi des tâches, gestion du temps, vision claire du cœur de jeu, serveur Discord organisé avec l’enseignant pour la communication synchrone/asynchrone)",
-                "Programming (interactivité avatar, organisation assets static/dynamic, ProBuilder, caméra virtuelle cinémachine, édition des données capturées par la caméra en post process, UI,…)",
-                "Game Design(recherche expérience voulue, cohérence entre narration et gameplay, définition des 3C, boucles gameplay et conditions défaite/victoire, rôle des collectibles et attractions, (ré)ajustements de metrics, playtests)",
-                "Level Design(blockout et prototype papier, chemin principal et chemins secondaires, breadscrumbing, beats et pacing, gates, tests navigation et déclencheurs in-game d’évènements)",
-                "Artiste 3D(charte graphique, palette de couleurs et style de rendu, modélisation, texturing, shaders et importation dans Unity)",
-                "Sound Design(intégration, alignement son/image et réglages audio)"
+                "Producing: planification (temps, tâches, milestones), gestion du scope du prototype, communication synchrone/asynchrone et avancée projet avec l’enseignant sur un serveur Discord dédié",
+                "Programmation: interactivité avatar, assets static/dynamic, ProBuilder, caméra virtuelle cinémachine, édition des données capturées par la caméra en post process, UI,…",
+                "Game Design: définition du Game Design Overview (expérience recherchée, 3C, boucles de gameplay, conditions défaite/victoire, rôle des attractions et collectibles…), (ré)ajustements de metrics in-game",
+                "Level Design: blockout et prototype papier, chemin principal et chemins secondaires, breadscrumbs, rythme et progression (pacing, beats et gates de niveau), tests navigation et déclencheurs in-game d’évènements",
+                "Artiste 3D: direction artistique, palette de couleurs et style de rendu, modélisation, texturing, shaders et importation dans Unity",
+                "Sound Design: intégration, alignement son/image et réglages audio"
             ],
-            "designProcess": "Pour démarrer ce projet, il était imposer plusieurs choses: le type de jeu, l’histoire, l’objectif principal et les phases d’interactivité du personnage (déplacement, saut, téléportation, interaction avec objet et triggerzone). Il semblait donc opportun d’exploiter un maximum l’immersion. Le choix s’est porté sur la création d’un environnement déstabilisant comme une fête foraine, sans l’animation que les foules y produisent d’habitude et également parfois liée aux clown, créant ainsi de la peur et où l’imaginaire joue des tours. Le lieu se trouve en pleine campagne, avec pour seule compagnie, d'étranges cris qui résonnent au loin. Les attractions, grâce aux jetons, permettent au joueur de progresser en débloquant des zones de la map et objets clés, mais aussi de contribuer à l’angoisse du lieu par leur côté endommagé et imprévisible. Le challenge principal a été de concevoir un niveau de fête foraine qui permettrait à la fois de favoriser l’immersion dans un chemin cohérent et de permettre une orientation claire pour le joueur vers les attractions. Il semblait intéressant de comprendre ce design existant avec des références de vrais parcs d’attraction/fêtes foraines et de faire des tests de navigation de manière itérative, notamment avec des personnes externes au projet pour en récolter les retours.",
+            "designProcess": "Au départ du projet il y avait plusieurs contraintes définies: le type de jeu, l’histoire, l’objectif principal et les phases d’interactivité du personnage (déplacement, saut, téléportation, interaction avec objet et triggerzone). Il semblait donc intéressant d’exploiter un maximum l’immersion et de s’amuser à concevoir les interactions avec les attractions. Le choix s’est porté sur la création d’un environnement déstabilisant comme une fête foraine en pleine campagne déserte, sans l’animation que les foules y produisent d’habitude. Ce type de lieu étant parfois lié aux clown, cela créé ainsi de la peur et un endroit où l’imaginaire joue des tours. Les attractions permettent au joueur de progresser en débloquant des zones de la map et objets clés grâce aux jetons, et de contribuer à l’angoisse du lieu par leur côté endommagé et imprévisible. Le challenge principal a été de concevoir un niveau de fête foraine qui permettrait à la fois de favoriser l’immersion et de donner une navigation cohérente et claire pour le joueur vers les attractions. Des recherches et références de vrais parcs d’attractions/fêtes foraines ont permis de renforcer cette expérience voulue en plus des tests de navigation.",
             "docs": [
                 "docs/projet_1/doc1",
                 "docs/projet_1/doc2"
@@ -141,83 +116,103 @@
     ],
     "levelDesign": [
         {
-            "image": "img/projet_1.png",
-            "title": "Baba's grandmother's riddle",
-            "year": "2023",
+            "image": "/assets/projet_1.png",
+            "title": "Baba Grandma’s Riddle",
+            "year": "2024",
             "type": "Projet étudiant",
-            "plateforme": "PC",
-            "teamSize": "Seule",
-            "duration": "1 semaine",
+            "plateforme": null,
+            "teamSize": null,
+            "duration": null,
             "tools": [
                 "Baba Is You - Level Editor"
             ],
             "projectLink": null,
             "awarded": null,
-            "pitch": "auifhaoifaf",
+            "pitch": "Baba Grandma’s Riddle est un niveau de puzzle conçu pendant un workshop de création de niveaux à l’ENJMIN. “Baba est né dans une famille de détectives privés de grande renommée. Les énigmes l'ont toujours fasciné depuis son enfance et il a toujours voulu suivre les traces de sa grand-mère qu'il trouvait si rusée. C'est alors un drame lorsqu'il apprend son décès. Il semble perdu dans sa quête de sens. Mais une lettre mystérieuse lui parvient juste après cette nouvelle: c’est elle qui l’a écrite avant de succomber de sa maladie. Elle le met au défi, de retrouver dans le manoir familial, la gemme précieuse, trésor puissant de la famille cachée en ces lieux. Illuminé par cet espoir que lui offre sa défunte grand-mère, il s'y précipite pour déjouer les puzzles du manoir et retrouver ce trésor.”",
             "mission": null,
-            "designProcess": "Blocking de niveau, intentions dramaturgiques, chemins et tests des énigmes.",
+            "designProcess": "Mon objectif principal était de concevoir une expérience de puzzle environnemental immersive où le joueur se sentirait pleinement engagé dans la quête pour récupérer la gemme précieuse dans le jardin. Pour cela, j’ai tout d’abord utilise le procédé de planification scénaristique “Save The Cat” avec la quête de la toison d’or (aller chercher un objet qui a de la valeur). Puis, j'ai veillé à ce que le niveau soit conçu avec une cohérence de niveau, en ajustant le rythme (pacing) pour maintenir l'intérêt du joueur tout au long de l'expérience. J'ai également intégré des beats stratégiquement placés pour marquer les moments clés de la progression, tout en introduisant des gates qui nécessitent des actions spécifiques pour avancer.",
             "docs": [
-                null
+                "doc ici"
             ]
         },
         {
-            "image": "img/projet_1.png",
-            "title": "Top chrono: LD!",
+            "image": "/assets/projet_1.png",
+            "title": "LD, Top Chrono !",
             "year": "2023",
             "type": "Projet étudiant",
-            "plateforme": "PC",
-            "teamSize": "Seule",
-            "duration": "2 jours",
+            "plateforme": null,
+            "teamSize": null,
+            "duration": null,
             "tools": [
                 "Unity avec Level Editors"
             ],
             "projectLink": null,
             "awarded": null,
-            "pitch": "auifhaoifaf",
+            "pitch": "LD, Top Chrono ! est un niveau conçu lors d’un workshop de création sur Unity. Pendant une journée, je me suis lancer le défi de produire un Level Design en pleine nature, proche d’un format diorama, qui permettrait d’aller efficacement d’un point A à un point B en peu de temps avec les assets fournis.",
             "mission": null,
-            "designProcess": "Blocking de niveau, chemins et tests de navigation.",
+            "designProcess": "Pour maximiser l'efficacité de ma conception, j'ai opté pour une approche itérative, en commençant par un blockout rudimentaire pour définir la structure générale du niveau, puis en ajoutant progressivement des détails et des assets pour enrichir l'environnement. En me concentrant sur l'essentiel, j'ai pu créer un chemin qui relie efficacement le point A au point B, tout en veillant à ce que chaque élément contribue à l'immersion du joueur dans cette petite forêt. Malgré le temps limité, j'ai pu intégrer des petits détails qui ajoutent de la profondeur à l'environnement, tout en maintenant une cohérence visuelle et une fluidité dans le parcours du joueur. Ce processus d'itération m'a permis de tirer le meilleur parti des ressources disponibles et de produire un niveau de qualité dans les délais impartis.",
             "docs": [
                 null
             ]
         },
         {
-            "image": "img/projet_1.png",
+            "image": "/assets/projet_1.png",
             "title": "Adventure of a Hero",
             "year": "2021",
-            "type": "Autodidacte",
-            "plateforme": "PC",
-            "teamSize": "Seule",
-            "duration": "3 mois",
+            "type": "autodidacte",
+            "plateforme": null,
+            "teamSize": null,
+            "duration": null,
             "tools": [
                 "Core games"
             ],
             "projectLink": null,
             "awarded": null,
-            "pitch": "auifhaoifaf",
+            "pitch": "Adventure of a hero est un niveau en monde ouvert sur le thème du médieval conçu en autodiacte pendant 3 mois, dans lequel j’expérimentais l’aspect du développement communautaire de Core Games.",
             "mission": null,
-            "designProcess": "Blocking de niveau, construction de terrain, level art",
+            "designProcess": "Dans ce projet de Level Design, j'ai eu l'opportunité de travailler sur une échelle beaucoup plus vaste, ce qui m'a permis de créer un monde ouvert dynamique et immersif. En exploitant les ressources disponibles dans le logiciel, j'ai conçu un paysage médiéval riche, rempli de monstres et de défis variés. Les différentes zones segmentées du monde représentaient des niveaux de progression distincts, offrant aux joueurs une expérience diversifiée tout au long de leur exploration. J'ai accordé une attention particulière aux variations visuelles pour garantir que chaque région avait son propre caractère distinct, tout en maintenant une cohérence globale dans le monde que j'ai créé.",
             "docs": [
-                null
+                "dpc ici"
             ]
         }   
     ],
     "art": [
         {
             "image": "img/projet_1.png",
-            "title": "Chic Japanes Restaurant",
-            "year": "2021",
-            "type": "Autodidacte",
+            "title": "The Unlucky Thief",
+            "year": "2019",
+            "type": "autodidacte",
             "plateforme": null,
-            "teamSize": "Seule",
-            "duration": "2 jours",
+            "teamSize": null,
+            "duration": null,
             "tools": [
                 "Blender 3D"
             ],
             "projectLink": null,
             "awarded": null,
-            "pitch": "auifhaoifaf",
+            "pitch": "The Unlucky Thief est un projet étudiant réalisé dans le cadre de ma formation à Ynov Bordeaux. Il s'agit d'un AnimJam en équipe sur 48 heures afin de créer une animation 3D de 45 secondes sur le thème de la relique. « Ce voleur a toujours rêvé de cette relique. C'est l'heure. Il est là, c'est enfin sa chance d'y arriver. Du moins, c'est ce qu'il se disait avant de se souvenir de sa maladresse naturelle.",
             "mission": null,
-            "designProcess": "auiehfaiof",
+            "designProcess": null,
+            "docs": [
+                null
+            ]
+        },
+        {
+            "image": "img/projet_1.png",
+            "title": "Chic Japanes Restaurant",
+            "year": "2021",
+            "type": "autodidacte",
+            "plateforme": null,
+            "teamSize": null,
+            "duration": null,
+            "tools": [
+                "Blender 3D"
+            ],
+            "projectLink": null,
+            "awarded": null,
+            "pitch": null,
+            "mission": null,
+            "designProcess": null,
             "docs": [
                 null
             ]
@@ -228,16 +223,16 @@
             "year": "2019",
             "type": "Projet étudiant",
             "plateforme": null,
-            "teamSize": "Seule",
-            "duration": "1 jour",
+            "teamSize": null,
+            "duration": null,
             "tools": [
                 "Maya"
             ],
             "projectLink": null,
             "awarded": null,
-            "pitch": "auifhaoifaf",
+            "pitch": null,
             "mission": null,
-            "designProcess": "auiehfaiof",
+            "designProcess": null,
             "docs": [
                 null
             ]
@@ -248,16 +243,16 @@
             "year": "2021",
             "type": "Projet étudiant",
             "plateforme": null,
-            "teamSize": "Seule",
-            "duration": "1 jour",
+            "teamSize": null,
+            "duration": null,
             "tools": [
                 "Blender 3D"
             ],
             "projectLink": null,
             "awarded": null,
-            "pitch": "auifhaoifaf",
+            "pitch": null,
             "mission": null,
-            "designProcess": "auiehfaiof",
+            "designProcess": null,
             "docs": [
                 null
             ]

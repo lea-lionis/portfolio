@@ -24,30 +24,30 @@ function App() {
   }, [])
 
   return (
-    <div className="grid grid-rows-12 h-screen max-h-screen">
+    <div className="grid grid-rows-12 h-screen max-h-screen font-barlow">
       <div className={(showFooter ? 'row-span-9' : 'row-span-12') + ' grid grid-cols-12 grid-rows-1'}> {/* content layer */}
-        <div className='col-span-2 flex flex-col bg-blue-950 px-5 pt-5 space-y-12'> {/* navbar */}
+        <div className='col-span-2 flex flex-col navbar-bg px-5 pt-5 space-y-12'> {/* navbar */}
           <div className='flex'>
-            <img className="h-10 pr-3 object-contain" src="./img/projet_1.png" alt='Logo Léa Lionis' />
-            <h1 className='text-4xl text-center text-white'>Portfolio</h1>
+            <img className="h-10 pr-3 object-contain" src="./assets/projet_1.png" alt='Logo Léa Lionis' />
+            <h1 className='text-4xl text-center text-white font-sign'>Portfolio</h1>
           </div>
           <hr class="border-gray-800 dark:border-white" />
           <div className='flex flex-col px-3 text-xl space-y-7'>
             <div className='flex flex-row space-x-8 justify-between'>
-              <img className="h-9 object-contain" src="./img/projet_1.png" alt='Logo Léa Lionis' />
+              <img className="h-9 object-contain" src="./src/assets/projet_1.png" alt='Logo Léa Lionis' />
               <ButtonNavbar onClick={() => changeFooterVisibility(false)}>A propos</ButtonNavbar>
             </div>
             <div className='flex flex-row space-x-8 justify-between'>
-              <img className="h-9 object-contain" src="./img/projet_1.png" alt='Logo Léa Lionis' />
+              <img className="h-9 object-contain" src="./assets/projet_1.png" alt='Logo Léa Lionis' />
               <ButtonNavbar onClick={() => changeFooterVisibility(true)}>Projets</ButtonNavbar>
             </div>
             <div className='flex flex-row space-x-8 justify-between'>
-              <img className="h-9 object-contain" src="./img/projet_1.png" alt='Logo Léa Lionis' />
+              <img className="h-9 object-contain" src="./assets/projet_1.png" alt='Logo Léa Lionis' />
               <ButtonNavbar onClick={() => changeFooterVisibility(false)}>Me contacter</ButtonNavbar>
             </div>
           </div>
         </div>
-        <div className='col-span-10 bg-stone-200 max-h-full'> {/* project */}
+        <div className='col-span-10 bg max-h-full'> {/* project */}
           {selectedProject && <Project className="max-h-full h-full" data={selectedProject} />}
         </div>
       </div>

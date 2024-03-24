@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.bg{
+  background-image: url(./assets/Bg.png);
+}
+
+.navbar-bg{
+  background-image: url(./assets/ProjectNavbar_FullScreen.png);
+}
+
+.title-bg{
+  background-image: url(./assets/ProjectTitlePaper.png);
+}
+
+.mainfont{
+  src: url(./assets/fonts/Sign45-\ Stamped.otf);
+}
